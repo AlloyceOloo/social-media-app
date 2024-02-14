@@ -18,10 +18,10 @@ gem "puma", ">= 5.0"
 gem "importmap-rails"
 
 #bootstrap stuff
-gem 'bootstrap-sass', '~> 3.3', '>= 3.3.6'
+gem "bootstrap-sass", "~> 3.3", ">= 3.3.6"
 
 #sass stuff
-gem 'sass-rails', '~> 6.0'
+gem "sass-rails", "~> 6.0"
 
 # Hotwire's SPA-like page accelerator [https://turbo.hotwired.dev]
 gem "turbo-rails"
