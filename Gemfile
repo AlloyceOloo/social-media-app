@@ -23,6 +23,9 @@ gem "devise", "~> 4.9", ">= 4.9.3"
 #bootstrap stuff
 gem "bootstrap-sass", "~> 3.3", ">= 3.3.6"
 
+#bootstrao_form
+gem "bootstrap_form", "~> 2.3"
+
 #sass stuff
 gem "sass-rails", "~> 6.0"
 
