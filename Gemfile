@@ -23,7 +23,20 @@ gem "devise", "~> 4.9", ">= 4.9.3"
 #bootstrap stuff
 gem "bootstrap-sass", "~> 3.3", ">= 3.3.6"
 
-#bootstrao_form
+gem 'rspec-rails', '~> 6.0', '>= 6.0.3'
+
+gem 'database_cleaner', '~> 2.0', '>= 2.0.2'
+
+gem 'factory_girl_rails', '~> 4.9'
+
+gem 'rails-controller-testing', '~> 1.0', '>= 1.0.5'
+
+gem 'poltergeist', '~> 1.18', '>= 1.18.1'
+
+gem 'headless', '~> 2.3', '>= 2.3.1'
+
+
+#bootstrap_form
 gem "bootstrap_form", "~> 2.3"
 
 #sass stuff
