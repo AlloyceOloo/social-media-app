@@ -31,6 +31,8 @@ gem 'factory_bot_rails', '~> 6.2'
 
 gem 'faker', '~> 3.2', '>= 3.2.3'
 
+gem 'will_paginate', '~> 3.1', '>= 3.1.6'
+
 gem 'rails-controller-testing', '~> 1.0', '>= 1.0.5'
 
 gem 'poltergeist', '~> 1.18', '>= 1.18.1'
