@@ -8,13 +8,13 @@ require 'rspec/rails'
 
 require 'capybara/poltergeist'
 
-require 'factory_girl_rails'
+require 'factory_bot_rails'
 
 require 'capybara/rspec'
 
 
   config.include Devise::Test::IntegrationHelpers, type: :feature
-  config.include FactoryGirl::Syntax::Methods
+  config.include FactoryBot::Syntax::Methods
   Capybara.javascript_driver = :poltergeist
   Capybara.server = :puma 
 # Add additional requires below this line. Rails is not loaded until this point!

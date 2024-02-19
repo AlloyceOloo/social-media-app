@@ -27,7 +27,7 @@ gem 'rspec-rails', '~> 6.0', '>= 6.0.3'
 
 gem 'database_cleaner', '~> 2.0', '>= 2.0.2'
 
-gem 'factory_girl_rails', '~> 4.9'
+gem 'factory_bot_rails', '~> 6.2'
 
 gem 'rails-controller-testing', '~> 1.0', '>= 1.0.5'
 
