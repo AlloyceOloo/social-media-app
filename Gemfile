@@ -29,6 +29,8 @@ gem 'database_cleaner', '~> 2.0', '>= 2.0.2'
 
 gem 'factory_bot_rails', '~> 6.2'
 
+gem 'faker', '~> 3.2', '>= 3.2.3'
+
 gem 'rails-controller-testing', '~> 1.0', '>= 1.0.5'
 
 gem 'poltergeist', '~> 1.18', '>= 1.18.1'
